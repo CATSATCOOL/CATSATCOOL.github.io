@@ -4,4 +4,6 @@ body {
 h1 {
   font-family: gorgia, serf
   font-size: "Times New Roman", Times, serif;
-  
+  color: white;
+    text-align: center;
+}
